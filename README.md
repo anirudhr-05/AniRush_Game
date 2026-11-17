@@ -78,7 +78,7 @@ The speed also ramps up *during* each level. Levels 1–5 draw from the easy pro
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/<your-username>/AniRush.git
+git clone https://github.com/anirudhr-05/AniRush.git
 cd AniRush
 
 # 2. Install Pygame (pygame-ce recommended)
